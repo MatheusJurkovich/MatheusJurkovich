@@ -1,7 +1,9 @@
- <div align="center">
+### <div align="center"> Hi, my name is Matheus 👋 </div>
+
+<div align="center">
   <a href="https://github.com/matheusjurkovich">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=matheusjurkovich&repo=matheusjurkovich&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusjurkovich&layout=compact&langs_count=7&theme=codeSTACKr"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusjurkovich&repo=matheusjurkovich&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusjurkovich&layout=compact&langs_count=7&theme=codeSTACKr"/>
 </div>
 <br>
 
@@ -18,7 +20,7 @@
   
   ##
  
-<div> 
+<div align="center"> 
   <a href="https://www.instagram.com/matheusjurkovich" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:matheusjurkovich@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-jurkovich-952685223/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
