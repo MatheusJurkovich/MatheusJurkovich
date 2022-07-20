@@ -24,7 +24,10 @@
   <a href="https://www.instagram.com/matheusjurkovich" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:matheusjurkovich@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-jurkovich-952685223/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://api.whatsapp.com/send?phone=5517981074772" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>   
+  <a href="https://api.whatsapp.com/send?phone=5517981074772" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/antonkomarev/github-profile-views-counter">
+        <img src="https://komarev.com/ghpvc/?username=matheusjurkovich&color=61c265&label=GITHUB+PROFILE+VIEWS&style=for-the-badge"/>
+    </a>
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div>
