@@ -37,6 +37,6 @@
   <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=matheusjurkovich&color=61c265&label=GITHUB+PROFILE+VIEWS&style=for-the-badge"/>
   </a>
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+<!--![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) -->
+  
 </div>
