@@ -52,7 +52,7 @@
 </div>
 
 ###
-
+<!--
 <div align="left" dislpay="grid">
   <h3 align="left">Projetos:</h3>
   <img width="450rem" height="125rem" src="https://github-readme-stats.vercel.app/api/pin/?username=matheusjurkovich&repo=kanban&show_owner&theme=codeSTACKr" />
@@ -60,7 +60,7 @@
   <img width="450rem" height="125rem" src="https://github-readme-stats.vercel.app/api/pin/?username=matheusjurkovich&repo=api-github&show_owner&theme=codeSTACKr" />
   <img width="450rem" height="125rem" src="https://github-readme-stats.vercel.app/api/pin/?username=matheusjurkovich&repo=shortener_url&show_owner&theme=codeSTACKr" />
 </div>
-
+-->
 ###
 
 <div align="left">
