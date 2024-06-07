@@ -7,8 +7,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matheusjurkovich&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusjurkovich&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=matheusjurkovich&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false" height="170" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusjurkovich&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=codeSTACKr&hide_border=false" height="170" alt="languages graph"  />
 </div>
 
 ###
@@ -49,6 +49,16 @@
   <img src="https://cdn.simpleicons.org/linux/FCC624" height="30" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="30" alt="bootstrap logo"  />
+</div>
+
+###
+
+<div align="left" dislpay="grid">
+  <h3 align="left">Projetos:</h3>
+  <img width="450rem" height="125rem" src="https://github-readme-stats.vercel.app/api/pin/?username=matheusjurkovich&repo=kanban&show_owner&theme=codeSTACKr" />
+  <img width="450rem" height="125rem" src="https://github-readme-stats.vercel.app/api/pin/?username=matheusjurkovich&repo=movie-app&show_owner&theme=codeSTACKr" />
+  <img width="450rem" height="125rem" src="https://github-readme-stats.vercel.app/api/pin/?username=matheusjurkovich&repo=api-github&show_owner&theme=codeSTACKr" />
+  <img width="450rem" height="125rem" src="https://github-readme-stats.vercel.app/api/pin/?username=matheusjurkovich&repo=shortener_url&show_owner&theme=codeSTACKr" />
 </div>
 
 ###
