@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">Fullstack developer and Computer Science student</h3>
+<h3 align="center">Fullstack developer</h3>
 
 ###
 
