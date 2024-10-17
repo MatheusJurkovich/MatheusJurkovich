@@ -50,6 +50,16 @@
   <img src="https://cdn.simpleicons.org/linux/FCC624" height="30" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/graphql/E10098" height="30" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/ionic/3880FF" height="30" alt="ionic logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/sentry/362D59" height="30" alt="sentry logo"  />
+  <img width="12" />
+</div>
+
+###
 </div>
 
 ###
