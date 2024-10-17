@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">Fullstack developer</h3>
+<h3 align="center">Fullstack developer at @Field Control</h3>
 
 ###
 
